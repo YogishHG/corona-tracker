@@ -1,0 +1,8 @@
+.option{
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    background-color: black !important;
+    color: darkgrey !important;
+  }
